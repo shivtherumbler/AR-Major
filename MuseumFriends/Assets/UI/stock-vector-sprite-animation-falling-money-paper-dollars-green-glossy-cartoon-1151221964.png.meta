@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: 50980f4a379205a4ba71c025216b89c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2566889727508977921
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_0
+  - first:
+      213: -3840618264175016821
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_1
+  - first:
+      213: -4052198622042067227
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_2
+  - first:
+      213: -8897633098588104217
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_3
+  - first:
+      213: 3679691271614081260
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_4
+  - first:
+      213: 7129504064321130349
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_5
+  - first:
+      213: -2006031567157254854
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_6
+  - first:
+      213: 1101184763728365690
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_7
+  - first:
+      213: 436257047476259582
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_8
+  - first:
+      213: -3533486458175238447
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_9
+  - first:
+      213: -7583588616813938097
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_10
+  - first:
+      213: -9182029216902793450
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_11
+  - first:
+      213: -5109977923085982919
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_12
+  - first:
+      213: 6085223292092413045
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_13
+  - first:
+      213: 2321090597001902263
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_14
+  - first:
+      213: 2495166109519085106
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_15
+  - first:
+      213: 4481364689978109874
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_16
+  - first:
+      213: -8901528715627714945
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_17
+  - first:
+      213: 8049738892755628538
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_18
+  - first:
+      213: -5183150803206561480
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_19
+  - first:
+      213: 585862945527655798
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_20
+  - first:
+      213: 8599966097187495984
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_21
+  - first:
+      213: -9152917394922085817
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_22
+  - first:
+      213: -5192569945585052145
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_23
+  - first:
+      213: 1894727190735273427
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_24
+  - first:
+      213: -2612972555462728726
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_25
+  - first:
+      213: 3962210837622247414
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_26
+  - first:
+      213: -2465274336127069654
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_27
+  - first:
+      213: -8208989312688070851
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_28
+  - first:
+      213: 6946388299914300512
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_29
+  - first:
+      213: 8843709650792517537
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_30
+  - first:
+      213: 8650407166394092194
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_31
+  - first:
+      213: -5119343548458518803
+    second: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 695
+        width: 120
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff66a3e8463906cd0800000000000000
+      internalID: -2566889727508977921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 685
+        width: 126
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8488f5890263bac0800000000000000
+      internalID: -3840618264175016821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 693
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeeadd92d2b3c7c0800000000000000
+      internalID: -4052198622042067227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 685
+        width: 94
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d5e8a6d1458480800000000000000
+      internalID: -8897633098588104217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 689
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a9a737b3e01330800000000000000
+      internalID: 3679691271614081260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 685
+        width: 131
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f809a3c2611f260800000000000000
+      internalID: 7129504064321130349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 686
+        width: 92
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352f570be42924e0800000000000000
+      internalID: -2006031567157254854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_7
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 678
+        width: 116
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780a1255b1384f00800000000000000
+      internalID: 1101184763728365690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 513
+        width: 98
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa45992975ed0600800000000000000
+      internalID: 436257047476259582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 505
+        width: 101
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decfc999c886fec0800000000000000
+      internalID: -3533486458175238447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 506
+        width: 101
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4afb14255ea1c690800000000000000
+      internalID: -7583588616813938097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 509
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61730416311e29080800000000000000
+      internalID: -9182029216902793450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 514
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332f5c1726b519b0800000000000000
+      internalID: -5109977923085982919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 509
+        width: 140
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f910e75e037450800000000000000
+      internalID: 6085223292092413045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_14
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 518
+        width: 101
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b83ccda99b263020800000000000000
+      internalID: 2321090597001902263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_15
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 521
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7a7d4b5c90a220800000000000000
+      internalID: 2495166109519085106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 355
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfaf173171013e30800000000000000
+      internalID: 4481364689978109874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 355
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f762213abca677480800000000000000
+      internalID: -8901528715627714945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 361
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17855afda66bf60800000000000000
+      internalID: 8049738892755628538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 364
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a7955ecfb118b0800000000000000
+      internalID: -5183150803206561480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_20
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 369
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6d33be37612800800000000000000
+      internalID: 585862945527655798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 375
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030634fc997395770800000000000000
+      internalID: 8599966097187495984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_22
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 364
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ec21af1e4af080800000000000000
+      internalID: -9152917394922085817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_23
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 385
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06980a552940f7b0800000000000000
+      internalID: -5192569945585052145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 217
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddbc0e575c6b4a10800000000000000
+      internalID: 1894727190735273427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 213
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3accf0e4bdcbbd0800000000000000
+      internalID: -2612972555462728726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 217
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2252498d0699cdd0800000000000000
+      internalID: -2465274336127069654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_28
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 217
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fdf3496bfc31e80800000000000000
+      internalID: -8208989312688070851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 217
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4250fa57866060800000000000000
+      internalID: 6946388299914300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_30
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 204
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8e28421b2bba70800000000000000
+      internalID: 8843709650792517537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 213
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac96b6c7b6c0870800000000000000
+      internalID: 8650407166394092194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-animation-falling-money-paper-dollars-green-glossy-cartoon-1151221964_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 217
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de631f68a2074f8b0800000000000000
+      internalID: -5119343548458518803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
