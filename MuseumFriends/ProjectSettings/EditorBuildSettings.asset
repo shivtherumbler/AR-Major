@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VideoIntro.unity
+    guid: 90f685ffe9759dc49b9ab35814fdba3b
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 43dc35149efabe445babf68afbdba801
+  - enabled: 1
+    path: Assets/Scenes/Hangout.unity
+    guid: 8d7ee765f130aae4abbb22b1dc835966
+  - enabled: 1
+    path: Assets/Scenes/Memories.unity
+    guid: 463074e55e150b64f8ebb7e951e0d024
+  - enabled: 1
+    path: Assets/Scenes/Moments.unity
+    guid: c0ab1364522eb5c4fbabe0ce470f33b6
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 18285fa1f87f8be4d9be4732d7021539, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a69db1fff69d1fc45a0bb18323072ac6, type: 2}

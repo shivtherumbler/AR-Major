@@ -1,0 +1,677 @@
+{
+    "m_SelectedDeviceId": "a02da011",
+    "m_SelectedPackage": {
+        "deviceId": "a02da011",
+        "name": "com.DefaultCompany.MuseumFriends",
+        "processId": 17489,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 12437,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31632,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31633,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31634,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31635,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31636,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10854,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10855,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10856,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 15749,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 15750,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 26148,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 15753,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29523,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 15752,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 30827,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 24000,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 24001,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 24004,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 30121,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 11916,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 30120,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 12606,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 30123,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6337,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6339,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6340,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6342,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 13508,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28443,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 18061,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 18063,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 32589,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28404,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28405,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28406,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28408,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 32284,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 32285,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 32287,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7898,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 12247,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10914,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7899,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17551,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29494,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29495,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29496,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29497,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29498,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 13197,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 13198,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 27288,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 13199,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 13200,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 30137,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 23386,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 31631,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 23388,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 23389,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 2054,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29665,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29666,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29668,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 29669,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 740,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 747,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 16415,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 16417,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 16418,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 16419,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 16420,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28373,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28376,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28379,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6238,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6240,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 20080,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6242,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 21445,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 6243,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 15000,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17215,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 26548,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 26549,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7642,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7644,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17054,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17055,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17057,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28033,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28036,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 28041,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7448,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7449,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 7451,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10963,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 10964,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17487,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 25075,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17488,
+            "exited": false
+        },
+        {
+            "deviceId": "a02da011",
+            "name": "com.DefaultCompany.MuseumFriends",
+            "processId": 17489,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
