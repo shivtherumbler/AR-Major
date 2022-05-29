@@ -6,7 +6,9 @@ using UnityEngine.XR.ARFoundation;
 [RequireComponent(typeof(ARSession))]
 public class ARSessionManager : MonoBehaviour
 {
-    public UIManager uiManager;
+
+    //public UIManager uiManager;
+    public ARTaptoPlaceObject manager;
     public ARSession _arSession;
 
     private void Awake()
@@ -19,7 +21,7 @@ public class ARSessionManager : MonoBehaviour
     {
         if (ARSession.state == ARSessionState.Unsupported)
         {
-            uiManager.ShowMessage("Device Not Supported");
+            manager.ShowMessage("Device Not Supported");
         }
         else if (ARSession.state == ARSessionState.None || ARSession.state == ARSessionState.Ready || ARSession.state == ARSessionState.SessionTracking)
         {
