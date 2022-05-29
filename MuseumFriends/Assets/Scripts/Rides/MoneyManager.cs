@@ -14,12 +14,13 @@ public class MoneyManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        levelno = PlayerPrefs.GetFloat("totalmoney", levelno);
     }
 
     // Update is called once per frame
     void Update()
     {
+        PlayerPrefs.SetFloat("totalmoney", levelno);
         earningamount = levelno;
 
         Timer += Time.deltaTime;
@@ -28,6 +29,11 @@ public class MoneyManager : MonoBehaviour
         {
             Timer = 0f;
             manager.moneyearned += earningamount;
+        }
+
+        if (manager.deleteprefs == true)
+        {
+            PlayerPrefs.DeleteKey("totalmoney");
         }
     }
 }
